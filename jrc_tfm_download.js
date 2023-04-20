@@ -1,3 +1,8 @@
+// Original script from: https://forobs.jrc.ec.europa.eu/TMF/tutorial_gee.php
+// C. Vancutsem, F. Achard, J.-F. Pekel, G. Vieilledent, S. Carboni, D. Simonetti, J. Gallego, L.E.O.C. Aragão, R. Nasi. Long-term (1990-2019) monitoring of forest cover changes in the humid tropics. Science Advances
+// Adapted by FFI
+
+
 // List of data that can be downloaded
 
 //Transition Map – Sub types (as visible on the TMF explorer):	projects/JRC/TMF/v1_2021/TransitionMap_Subtypes
